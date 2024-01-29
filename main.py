@@ -1,4 +1,3 @@
-print("Hello World!")
 
 class RunLengthEncoding:
     def __init__(self, string):
