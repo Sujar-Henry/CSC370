@@ -24,3 +24,6 @@ class RunLengthEncoding:
         return encoded_string
     
 print(RunLengthEncoding("aaabaaaaaaa").encode())
+
+
+AHHHHHHHHHHHH
