@@ -2,7 +2,7 @@ public class RunLengthEncoding {
     private String string;
 
     public RunLengthEncoding(String string) {
-        this.string = string;
+        this.string = string; 
     }
 
     public String encode() {
