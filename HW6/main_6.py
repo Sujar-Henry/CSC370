@@ -19,7 +19,7 @@ def main():
     return 0
 print("Assignment Compatibility")
 print(main())
-#LOL S
+#LOL S   
 #Function Calls
 
 def printMessage(num):
